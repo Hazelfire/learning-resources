@@ -4,7 +4,7 @@ A collection of free learning resources for computer science.
 ## 1. Languages
 ### 1.1 Java
 * [Object Oriented Programming with Java, Part 1 - University of Helsinki (MOOC.fi)](http://mooc.fi/courses/2013/programming-part-1/)
-* [Object Oriented Programming with Java, Part 2 - University of Helsinki](http://mooc.fi/courses/2013/programming-part-2/)
+* [Object Oriented Programming with Java, Part 2 - University of Helsinki (MOOC.fi)](http://mooc.fi/courses/2013/programming-part-2/)
 
 ## 2. Theory
 ### 2.1 Algorithms
