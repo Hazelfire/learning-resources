@@ -12,3 +12,6 @@ A collection of free learning resources for computer science.
 * [Algorithms, Part 2 - Princeton University (Coursera)](https://www.coursera.org/learn/algorithms-part2)
 ### 2.2 Data Structures
 * [Data Structures - University of Californa, Berkley (sp18.datastructur.es)](https://sp18.datastructur.es/index.html)
+
+## 3. Computer Systems and Cryptography
+* [Explain it like I'm 2 - Sam Nolan](https://github.com/Hazelfire/EILI2)
